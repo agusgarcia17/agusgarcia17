@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1> Hi! I'm Agustina Garcia </h1>
-      <b>From Argentina living in Madrid</b>
+      <b>From Argentina living in Madrid</b> <br/>
       <ul>
         <li>Frontend Developer Jr.</li>
         <li>HTML - CSS - JS - React - Node</li>
