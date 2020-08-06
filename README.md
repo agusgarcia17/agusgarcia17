@@ -7,7 +7,7 @@
       <ul>
         <li>Frontend Developer Jr.</li>
         <li>HTML - CSS - JS - React - Node</li>
-        <li>Cat Lover</li>
+        <li>Cat Lover :cat:</li>
         <li>I also ❤️ to read books, cook and learn new things</li>
       </ul>  
      <h2> Feel free to contact me!  </h2>
