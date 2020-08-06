@@ -9,7 +9,7 @@
         <li>Cat Lover</li>
         <li>I also like to read books, cook and learn new things</li>
       </ul>  
-     <h2> Contact me!  </h2>
+     <h2> Feel free to contact me!  </h2>
         <p float="left">
   
   [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/maria-agustina-garcia/) &nbsp;&nbsp;
