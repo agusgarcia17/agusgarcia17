@@ -21,7 +21,7 @@
 </p>
       </td>   
      <td>
-      <img src="https://media.giphy.com/media/3htkqCP9K8cC6TwpoZ/giphy.gif" width="500">
+      <img src="https://media.giphy.com/media/9tXEk7Rkap8PlJubSh/giphy.gif" width="500">
      </td>
    </tr>
 </table> 
